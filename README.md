@@ -1,3 +1,3 @@
-# fmr1_behavior_assay_processing
+# fmr1-behavior-assay-processing
 
 ## MATLAB code for tracking behavior assays. 
